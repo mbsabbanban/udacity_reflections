@@ -1,0 +1,4 @@
+I'm creating a new git repository using:
+-> git init
+-> git commit (to create that first commit)
+-> git status is important in checking to see "what's up"
