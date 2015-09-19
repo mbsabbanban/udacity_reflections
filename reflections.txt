@@ -2,3 +2,6 @@ I'm creating a new git repository using:
 -> git init
 -> git commit (to create that first commit)
 -> git status is important in checking to see "what's up"
+
+Staging area is different from the working directory?
+-> Yes, the staging area allows us to organize our changes in order to make logical commits
