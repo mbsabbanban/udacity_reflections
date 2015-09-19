@@ -10,4 +10,7 @@ How can you use the staging area to make sure you have one commit?
 -> Add the files to staging that you plan to commit. Group everything in the staging area like you were going to commit
 
 Why are branches good?
-Branches are great to create when you're creating experimental new features or different versions of the origin (such as JPN version or FRE version)
+-> Branches are great to create when you're creating experimental new features or different versions of the origin (such as JPN version or FRE version)
+
+How do diagrams help you visualize the branch structure?
+-> Makes it obvious that branches are commits are all part of this parent-child structure
