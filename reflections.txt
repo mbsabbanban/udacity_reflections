@@ -17,3 +17,7 @@ How do diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together?
 -> You always merge one branch into another branch. Usually it's you merge branch 1 into master. You end up with one complete branch.
+
+What are the pros and cons of Git's automatic Mergin
+-> Pro: Automatic merge is easy
+-> Con: The algorithm for automatic merging isn't smart enough
