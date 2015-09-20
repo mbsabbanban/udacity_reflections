@@ -14,3 +14,6 @@ Why are branches good?
 
 How do diagrams help you visualize the branch structure?
 -> Makes it obvious that branches are commits are all part of this parent-child structure
+
+What is the result of merging two branches together?
+-> You always merge one branch into another branch. Usually it's you merge branch 1 into master. You end up with one complete branch.
