@@ -1,0 +1,4 @@
+Reflections for Lesson 3
+
+When would you want to use a remote repository rather than keeping all your work local?
+--> A remote repository is great idea when you're working on multiple computers (work, home, friend's comp) or if there are multiple people in that are working on the same project
