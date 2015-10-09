@@ -2,3 +2,11 @@ Reflections for Lesson 3
 
 When would you want to use a remote repository rather than keeping all your work local?
 --> A remote repository is great idea when you're working on multiple computers (work, home, friend's comp) or if there are multiple people in that are working on the same project
+
+Why might you want to always pull changes manually rather than having Git automatically stay up to date with your repository?
+--> A manual pull to be up-to-date is always a good idea because you may be working on one area of the code at the same time as another person. If the changes are automatically updated, it could overwrite / present a conflict with the code that you're working on.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of the other?
+--> Fork: It's like a clone of another person's repository on github. Useful when you want to edit somebody else's code as your own but don't want to alter the original repo
+--> Clone: It's a copy of a repository
+--> Branch: on your local computer, it's a separate thread of commits. Useful when testing out new features or editing something new separate from the main branch of code
