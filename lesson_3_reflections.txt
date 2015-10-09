@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 --> Fork: It's like a clone of another person's repository on github. Useful when you want to edit somebody else's code as your own but don't want to alter the original repo
 --> Clone: It's a copy of a repository
 --> Branch: on your local computer, it's a separate thread of commits. Useful when testing out new features or editing something new separate from the main branch of code
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+--> It's good to have all of the data that you were working with available, especially when you're in a place without internet.
